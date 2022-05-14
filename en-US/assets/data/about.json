@@ -22,6 +22,11 @@
             "icon": "facebook",
             "title": "Facebook",
             "http": "https://www.facebook.com/dennisfrankenbach/"
+        },
+        {
+            "icon": "instagram",
+            "title": "Instagram",
+            "http": "https://www.instagram.com/mr_dennisfr/"
         }
     ],
     "hobbies": [{
@@ -29,16 +34,20 @@
             "title": "Cycling"
         },
         {
-            "icon": "dumbbell",
-            "title": "Gym"
+            "icon": "camera",
+            "title": "Camera"
         },
         {
             "icon": "suitcase-rolling",
             "title": "Travel"
         },
         {
-            "icon": "book",
-            "title": "Read"
+            "icon": "hiking",
+            "title": "Hiking"
+        },
+        {
+            "icon": "skiing",
+            "title": "Skiing"
         }
     ]
 }

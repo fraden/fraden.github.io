@@ -5,12 +5,12 @@
         "endAt": "04-01-2016",
         "companyName": "AUDI AG",
         "website": "https://www.audi.de/de/brand/de.html",
-        "logo": "assets/template/experience/logo/facil-logo.png",
+        "logo": "assets/template/experience/logo/audi-logo.svg",
         "internationalizations": [{
                 "language": "de",
                 "city": "Neckarsulm",
-                "country": "Brasil",
-                "role": "Estágio Webmaster",
+                "country": "Deutschland",
+                "role": "Praktikum - Entwicklung von Fahrzeuginbetriebnahme-Software",
                 "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
             },
             {
@@ -25,10 +25,16 @@
             "C#", ".NET", "XML", "SVN", "MySQL"
         ],
         "medias": [{
-            "icon": "facebook",
-            "title": "Facebook Editora Nosso Trânsito",
-            "http": "https://www.facebook.com/editoranossotransito/"
-        }],
+                "icon": "linkedin",
+                "title": "LinkedIn AUDI AG",
+                "http": "https://www.linkedin.com/company/audi-ag/"
+            },
+            {
+                "icon": "internet-explorer",
+                "title": "Website AUDI AG",
+                "http": "https://www.audi.de/"
+            }
+        ],
         "backgroundUrl": "assets/template/experience/uberaba.jpg"
     },
     {
@@ -38,12 +44,12 @@
         "endAt": "11-14-2016",
         "companyName": "Robert Bosch GmbH",
         "website": "https://www.bosch.de/",
-        "logo": "assets/template/experience/logo/etatica-logo.png",
+        "logo": "assets/template/experience/logo/bosch-logo.svg",
         "internationalizations": [{
                 "language": "de",
-                "city": "Rio de Janeiro",
-                "country": "Brasil",
-                "role": "Desenvolvedor Full-stack",
+                "city": "Renningen",
+                "country": "Germany",
+                "role": "Master-Thesis: Entwicklung einer Modellbasierten Prädiktiven Regelung für Active-Heave-Compensation-Systeme",
                 "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
             },
             {
@@ -55,7 +61,7 @@
             }
         ],
         "technologies": [
-            "Matlab", "Simulink", "ecos", "qpOASES", "ModelPredictiveControl", "KalmanFilter"
+            "Matlab", "Simulink", "ecos", "qpOASES", "ModelPredictiveControl", "KalmanFilter", "ControlEngineering"
         ],
         "medias": [{
                 "icon": "linkedin",
@@ -63,14 +69,9 @@
                 "http": "https://www.linkedin.com/company/etatica/"
             },
             {
-                "icon": "facebook",
-                "title": "Facebook E-tática",
-                "http": "https://www.facebook.com/etatica/"
-            },
-            {
-                "icon": "instagram",
-                "title": "Instagram E-tática",
-                "http": "https://www.instagram.com/somos_etatica/"
+                "icon": "internet-explorer",
+                "title": "Website Robert Bosch GmbH",
+                "http": "https://www.bosch.de/"
             }
         ],
         "backgroundUrl": "assets/template/experience/bosch-renningen.jpeg"
@@ -78,23 +79,23 @@
     {
         "id": 3,
         "position": 3,
-        "startAt": "07-01-2014",
-        "endAt": "12-23-2016",
-        "companyName": "Deevo Studio",
-        "website": "http://deevo.com.br/",
-        "logo": "assets/template/experience/logo/deevo-logo.png",
+        "startAt": "11-15-2016",
+        "endAt": "03-31-2020",
+        "companyName": "Robert Bosch GmbH",
+        "website": "https://www.bosch.de/",
+        "logo": "assets/template/experience/logo/bosch-logo.svg",
         "internationalizations": [{
                 "language": "de",
-                "city": "São Paulo",
-                "country": "Brasil",
-                "role": "Desenvolvedor Mobile",
-                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
+                "city": "Abstatt",
+                "country": "Deutschland",
+                "role": "Software-Entwickler",
+                "description": "aa dkdk dk kdkd"
             },
             {
                 "language": "en",
-                "city": "São Paulo",
-                "country": "Brazil",
-                "role": "Mobile Developer",
+                "city": "Abstatt",
+                "country": "Germany",
+                "role": "Software Developer",
                 "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
             }
         ],

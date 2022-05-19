@@ -5,28 +5,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Motion Planning for Self-Driving Cars.",
-                "description": "Description."
+                "description": "<ul><li>planning tasks in autonomous driving, like mission planning</li> <li>usage of finite state machines to select safe behaviors</li> <li>build occupancy grid maps of static elements in the environment and learn how to use them for efficient collision checking</li> <li>mplement a hierarchical motion planner to navigate through a sequence of scenarios in the CARLA simulator, including avoiding a vehicle parked in your lane, following a lead vehicle and safely navigating an intersection</li></ul>"
             },
             {
                 "language": "de",
                 "title": "Motion Planning für selbstfahrende Autos.",
-                "description": "Beschreibung."
-            }
-        ]
-    },
-    {
-        "thumbnail": "assets/posts/state_estimation_and_localization_for_self_driving_cars.jpeg",
-        "http": "https://www.coursera.org/account/accomplishments/verify/WLLLFC2V9SL9",
-        "date": "04-04-2022",
-        "internationalizations": [{
-                "language": "en",
-                "title": "State Estimation and Localization for Self-Driving Cars.",
-                "description": "Description."
-            },
-            {
-                "language": "de",
-                "title": "Zustandsschätzung und Lokalisierung für selbstfahrende Autos.",
-                "description": "Beschreibung."
+                "description": "<ul><li>Planungsaufgaben beim autonomen Fahren, wie Missionsplanung</li> <li>Verwendung von endlichen Zustandsautomaten zur Auswahl sicherer Verhaltensweisen für die Ausführung</li> <li>Erstellung von Occupancy Grids von statischen Elementen in der Umgebung und Nutzung zur Kollissionsdetektion</li> <li>einen hierarchischen Bewegungsplaner zu implementieren, um durch eine Abfolge von Szenarien im CARLA-Simulator zu navigieren, einschließlich des Ausweichens eines auf der eigenen Spur geparkten Fahrzeugs, des Folgens eines führenden Fahrzeugs und des sicheren Navigierens auf einer Kreuzung</li></ul>"
             }
         ]
     },
@@ -37,12 +21,28 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Visual Perception for Self-Driving Cars.",
-                "description": "Description."
+                "description": "<ul><li>Work with the pinhole camera model, and perform intrinsic and extrinsic camera calibration</li> <li>Detect, describe and match image features and design your own convolutional neural networks</li> <li>Apply these methods to visual odometry, object detection and tracking</li> <li>Apply semantic segmentation for drivable surface estimation</li> </ul>"
             },
             {
                 "language": "de",
                 "title": "Visual Perception für selbstfahrende Autos.",
-                "description": "Beschreibung."
+                "description": "<ul><li>Arbeit mit dem Lochkameramodell und Durchführung der intrinsischen und extrinsischen Kamerakalibrierung</li> <li>Erkennen, Beschreiben und Zuordnen von Bildmerkmalen und Entwerfen eigener Convolutional Neural Networks</li> <li>Anwendung dieser Methoden auf visuelle Odometrie, Objekterkennung und -verfolgung</li> <li>Anwendung der semantischen Segmentierung zur Schätzung der befahrbaren Oberfläche</li> </ul>"
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/state_estimation_and_localization_for_self_driving_cars.jpeg",
+        "http": "https://www.coursera.org/account/accomplishments/verify/WLLLFC2V9SL9",
+        "date": "04-04-2022",
+        "internationalizations": [{
+                "language": "en",
+                "title": "State Estimation and Localization for Self-Driving Cars.",
+                "description": "<ul> <li>key methods for parameter and state estimation used for autonomous driving</li> <li>Develop a model for typical vehicle localization sensors, including GPS and IMUs</li> <li>Apply extended and unscented Kalman Filters to a vehicle state estimation problem</li> <li>Apply LIDAR scan matching and the Iterative Closest Point algorithm</li> </ul>"
+            },
+            {
+                "language": "de",
+                "title": "Zustandsschätzung und Lokalisierung für selbstfahrende Autos.",
+                "description": "<ul> <li>wichtigste Methoden zur Parameter- und Zustandsschätzung für das autonome Fahren</li> <li>Entwicklung eines Modells für typische Fahrzeuglokalisierungssensoren, einschließlich GPS und IMUs</li> <li>Anwendung von Erweiterten und Unscented Kalman-Filtern auf ein Problem der Fahrzeugzustandsschätzung</li> <li>Anwendung des LIDAR-Scan-Matching und des Iterativen Closest-Point-Algorithmus</li> </ul>"
             }
         ]
     },
@@ -53,12 +53,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Introduction to Self-Driving Cars.",
-                "description": "Description"
+                "description": "<ul> <li> Understand commonly used hardware used for self-driving cars </li> <li> Identify the main components of the self-driving software stack </li> <li> Program vehicle modelling and control </li> <li> Analyze the safety frameworks and current industry practices for vehicle development </li> </ul>"
             },
             {
                 "language": "de",
                 "title": "Einführung in selbstfahrende Autos.",
-                "description": "Beschreibung."
+                "description": "<ul> <li> Hardware selbstfahrender Autos </li> <li> Hauptkomponenten des selbstfahrenden Software-Stacks </li> <li> Fahrzeugmodellierung und -steuerung </li> <li> Analyse des Sicherheitsrahmens und der aktuellen Industriepraktiken für die Fahrzeugentwicklung </li> </ul>."
             }
         ]
     },
@@ -69,50 +69,50 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "C++ Developer",
-                "description": "Description."
+                "description": "<ul><li>C++ Foundations</li> <li>Object-Oriented Programming</li> <li>Memory Management</li> <li>Concurrency</ul>"
             },
             {
                 "language": "de",
                 "title": "C++ Entwickler",
-                "description": "Beschreibung."
+                "description": "<ul><li>C++-Grundlagen</li> <li>objektorientierte Programmierung</li> <li>Speicherverwaltung</li> <li>Nebenläufigkeit</ul>"
             }
         ]
     },
     {
         "thumbnail": "assets/posts/frontend_developer.svg",
-        "http": "https://www.linkedin.com/in/dennis-frankenbach/",
+        "http": "https://graduation.udacity.com/confirm/TPJAMMKJ",
         "date": "10-21-2021",
         "internationalizations": [{
                 "language": "en",
                 "title": "Frontend Developer.",
-                "description": "Description."
+                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript and the DOM</li> <li>Web APIs and Asynchronous Applications</li><li>Build Tools, Webpack und Service Worker</li></ul>"
             },
             {
                 "language": "de",
                 "title": "Frontend Entwickler.",
-                "description": "Beschreibung."
+                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript und DOM</li> <li>Web APIs und Asynchrone Anwendungen</li><li>Build Tools, Webpack und Service Worker</li></ul>"
             }
         ]
     },
     {
         "thumbnail": "assets/posts/machine_learning.svg",
-        "http": "https://www.linkedin.com/in/dennis-frankenbach/",
+        "http": "https://graduation.udacity.com/confirm/2D76YKP3",
         "date": "06-17-2021",
         "internationalizations": [{
                 "language": "en",
                 "title": "Introduction to Machine Learning with TensorFlow",
-                "description": "Supervised Learning; Neural Networks; Unsupervised Learning"
+                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul>"
             },
             {
                 "language": "de",
                 "title": "Einführung in maschinelles Lernen mit TensorFlow",
-                "description": "Supervised Learning; Neural Networks; Unsupervised Learning"
+                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul>"
             }
         ]
     },
     {
         "thumbnail": "assets/posts/Six_Sigma.png",
-        "http": "https://www.linkedin.com/in/dennis-frankenbach/",
+        "http": "assets/posts/Six_Sigma.pdf",
         "date": "11-01-2020",
         "internationalizations": [{
                 "language": "en",
@@ -122,7 +122,7 @@
             {
                 "language": "de",
                 "title": "Six Sigma Green Belt Training",
-                "description": "Die Vision von Six Sigma; SIPOC; Voice of the Customer, CTQ; Prozess und Variation; Prozessmapping; Prozessmessungen, DPU, RTY; C&E Matrix; FMEA; Einführung in Minitab; Grafische Methoden; Grundlagen der Statistik; Messsystem-Analyse, GR&R; Prozessfähigkeit, cp, cpk und Sigma; Korrelationsanalyse; Multi-Vari-Studie; Zentraler Grenzwertsatz; Einführung in Hypothesentests; Konfidenzbereiche; T-Test; F-Test ; Chi^2-Test; Berechnung Stichprobengröße; Shainin A versus B; Varianzanalyse (ANOVA); Regressionsanalyse; Lösungsfindung; Kreativitätstechniken; Lösungsauswahl; Lösungsumsetzung; Lösungs-Risiken; Statistische Prozessregelung; Behandl. nichtnormalv. Daten; Überblick über weitere Tools; Praktische Umsetzung"
+                "description": "Die Vision von Six Sigma; SIPOC; Voice of the Customer, CTQ; <br>Prozess und Variation; Prozessmapping; Prozessmessungen, DPU, RTY; <br>C&E Matrix; FMEA; Einführung in Minitab; Grafische Methoden; <br>Grundlagen der Statistik; Messsystem-Analyse, GR&R; <br>Prozessfähigkeit, cp, cpk und Sigma; <br>Korrelationsanalyse; Multi-Vari-Studie; <br>Zentraler Grenzwertsatz; Einführung in Hypothesentests; Konfidenzbereiche; <br>T-Test; F-Test ; Chi^2-Test; Berechnung Stichprobengröße; Shainin A versus B; <br>Varianzanalyse (ANOVA); Regressionsanalyse; Lösungsfindung; Kreativitätstechniken; <br>Lösungsauswahl; Lösungsumsetzung; Lösungs-Risiken; Statistische Prozessregelung; <br>Behandl. nichtnormalv. Daten; Überblick über weitere Tools; <br>Praktische Umsetzung"
             }
         ]
     }

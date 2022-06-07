@@ -1,5 +1,5 @@
 [{
-        "thumbnail": "assets/qualifications/motion_planning_for_self_driving_cars.jpeg",
+        "thumbnail": "assets/posts/motion_planning_for_self_driving_cars.jpeg",
         "http": "https://www.coursera.org/account/accomplishments/verify/JT4J3HJY6L24",
         "date": "04-25-2022",
         "internationalizations": [{
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/visual_perception_for_self_driving_cars.jpeg",
+        "thumbnail": "assets/posts/visual_perception_for_self_driving_cars.jpeg",
         "http": "https://www.coursera.org/account/accomplishments/verify/Z9MH4ULNR2G5",
         "date": "04-21-2022",
         "internationalizations": [{
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/state_estimation_and_localization_for_self_driving_cars.jpeg",
+        "thumbnail": "assets/posts/state_estimation_and_localization_for_self_driving_cars.jpeg",
         "http": "https://www.coursera.org/account/accomplishments/verify/WLLLFC2V9SL9",
         "date": "04-04-2022",
         "internationalizations": [{
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/introduction_to_self_driving_cars.jpeg",
+        "thumbnail": "assets/posts/introduction_to_self_driving_cars.jpeg",
         "http": "https://www.coursera.org/account/accomplishments/verify/Y7PRNZZ8GENK",
         "date": "03-18-2022",
         "internationalizations": [{
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/cpp_developer.svg",
+        "thumbnail": "assets/posts/cpp_developer.svg",
         "http": "https://graduation.udacity.com/confirm/LCNXSG5E",
         "date": "02-13-2022",
         "internationalizations": [{
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/frontend_developer.svg",
+        "thumbnail": "assets/posts/frontend_developer.svg",
         "http": "https://graduation.udacity.com/confirm/TPJAMMKJ",
         "date": "10-21-2021",
         "internationalizations": [{
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/machine_learning.svg",
+        "thumbnail": "assets/posts/machine_learning.svg",
         "http": "https://graduation.udacity.com/confirm/2D76YKP3",
         "date": "06-17-2021",
         "internationalizations": [{
@@ -111,8 +111,8 @@
         ]
     },
     {
-        "thumbnail": "assets/qualifications/Six_Sigma.png",
-        "http": "assets/qualifications/Six_Sigma.pdf",
+        "thumbnail": "assets/posts/Six_Sigma.png",
+        "http": "assets/posts/Six_Sigma.pdf",
         "date": "11-01-2020",
         "internationalizations": [{
                 "language": "en",

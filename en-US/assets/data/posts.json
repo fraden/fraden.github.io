@@ -1,4 +1,36 @@
 [{
+        "thumbnail": "assets/posts/ebike.png",
+        "http": "https://ebike.dennisfrankenbach.me/",
+        "date": "06-28-2022",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Summary of my eBike tours",
+                "description": "<ul><li>Frontend that shows my ebike trips</li><li>Usage of Mapbox GL</li></ul>"
+            },
+            {
+                "language": "de",
+                "title": "Zusammenfassung meiner eBike Touren",
+                "description": "<ul><li>Frontend, das meine eBike Touren zeigt</li><li>Verwendung von Mapbox GL</li> <li>GPX-Daten</li></ul>"
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/photos.png",
+        "http": "https://photos.dennisfrankenbach.me/",
+        "date": "06-08-2022",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Photography portfolio.",
+                "description": "<ul><li>Gatsby based frontend</li> <li>Photography</li></ul>"
+            },
+            {
+                "language": "de",
+                "title": "Fotografie Portfolio.",
+                "description": "<ul><li>Gatsby basiertes Frontend</li> <li>Fotografie</li></ul>"
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/motion_planning_for_self_driving_cars.jpeg",
         "http": "https://www.coursera.org/account/accomplishments/verify/JT4J3HJY6L24",
         "date": "04-25-2022",

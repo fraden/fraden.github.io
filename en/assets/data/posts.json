@@ -4,12 +4,12 @@
         "date": "06-28-2022",
         "internationalizations": [{
                 "language": "en",
-                "title": "Summary of my eBike tours",
+                "title": "Summary of my eBike tours.",
                 "description": "<ul><li>Frontend that shows my ebike trips</li><li>Usage of Mapbox GL</li></ul>"
             },
             {
                 "language": "de",
-                "title": "Zusammenfassung meiner eBike Touren",
+                "title": "Zusammenfassung meiner eBike Touren.",
                 "description": "<ul><li>Frontend, das meine eBike Touren zeigt</li><li>Verwendung von Mapbox GL</li> <li>GPX-Daten</li></ul>"
             }
         ]
@@ -100,12 +100,12 @@
         "date": "02-13-2022",
         "internationalizations": [{
                 "language": "en",
-                "title": "C++ Developer",
+                "title": "C++ Developer.",
                 "description": "<ul><li>C++ Foundations</li> <li>Object-Oriented Programming</li> <li>Memory Management</li> <li>Concurrency</ul>"
             },
             {
                 "language": "de",
-                "title": "C++ Entwickler",
+                "title": "C++ Entwickler.",
                 "description": "<ul><li>C++-Grundlagen</li> <li>objektorientierte Programmierung</li> <li>Speicherverwaltung</li> <li>Nebenläufigkeit</ul>"
             }
         ]
@@ -132,12 +132,12 @@
         "date": "06-17-2021",
         "internationalizations": [{
                 "language": "en",
-                "title": "Introduction to Machine Learning with TensorFlow",
+                "title": "Introduction to Machine Learning with TensorFlow.",
                 "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul>"
             },
             {
                 "language": "de",
-                "title": "Einführung in maschinelles Lernen mit TensorFlow",
+                "title": "Einführung in maschinelles Lernen mit TensorFlow.",
                 "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul>"
             }
         ]
@@ -148,12 +148,12 @@
         "date": "11-01-2020",
         "internationalizations": [{
                 "language": "en",
-                "title": "Six Sigma Green Belt Training ",
+                "title": "Six Sigma Green Belt Training.",
                 "description": " The vision of Six Sigma; SIPOC; Voice of the Customer, CTQ; Process and Variation; Process Mapping; Process Measurements, DPU, RTY; C&E Matrix; FMEA; Introduction to Minitab; Graphical Methods; Fundamentals of Statistics; Measurement System Analysis, GR&R; Process Capability, cp, cpk and Sigma; Correlation Analysis; Multi-Vari Study; Central Limit Theorem; Introduction to Hypothesis Testing; Confidence Ranges; T-Test; F-Test ; Chi^2-Test; Sample Size Calculation; Shainin A versus B; Analysis of Variance (ANOVA); Regression Analysis; Solution Finding; Creativity Techniques; Solution Selection; Solution Implementation; Solution Risks; Statistical Process Control; Treat. non-normal data; Overview of further tools; Practical implementation"
             },
             {
                 "language": "de",
-                "title": "Six Sigma Green Belt Training",
+                "title": "Six Sigma Green Belt Training.",
                 "description": "Die Vision von Six Sigma; SIPOC; Voice of the Customer, CTQ; <br>Prozess und Variation; Prozessmapping; Prozessmessungen, DPU, RTY; <br>C&E Matrix; FMEA; Einführung in Minitab; Grafische Methoden; <br>Grundlagen der Statistik; Messsystem-Analyse, GR&R; <br>Prozessfähigkeit, cp, cpk und Sigma; <br>Korrelationsanalyse; Multi-Vari-Studie; <br>Zentraler Grenzwertsatz; Einführung in Hypothesentests; Konfidenzbereiche; <br>T-Test; F-Test ; Chi^2-Test; Berechnung Stichprobengröße; Shainin A versus B; <br>Varianzanalyse (ANOVA); Regressionsanalyse; Lösungsfindung; Kreativitätstechniken; <br>Lösungsauswahl; Lösungsumsetzung; Lösungs-Risiken; Statistische Prozessregelung; <br>Behandl. nichtnormalv. Daten; Überblick über weitere Tools; <br>Praktische Umsetzung"
             }
         ]

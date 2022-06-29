@@ -1,5 +1,5 @@
 [{
-        "thumbnail": "assets/posts/ebike.png",
+        "thumbnail": "assets/posts/ebike.jpg",
         "http": "https://ebike.dennisfrankenbach.me/",
         "date": "06-28-2022",
         "internationalizations": [{
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/photos.png",
+        "thumbnail": "assets/posts/photos.jpg",
         "http": "https://photos.dennisfrankenbach.me/",
         "date": "06-08-2022",
         "internationalizations": [{

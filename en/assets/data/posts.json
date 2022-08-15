@@ -1,4 +1,20 @@
 [{
+        "thumbnail": "assets/posts/gpx_creator.png",
+        "http": "https://github.com/fraden/python-komoot-gpx-creator",
+        "date": "07-15-2022",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Komoot-GPX-Creator",
+                "description": "<ul><li>Create gpx data by using Komoot APIs</li><li>gpx data can be simplified and timestamps are anonymized</li></ul>"
+            },
+            {
+                "language": "de",
+                "title": "Komoot-GPX-Creator",
+                "description": "<ul><li>Erstellung von GPX-Daten unter Verwendung der Komoot APIs</li><li>Vereinfachung von Positionsdaten und Anonymisierung der Zeitstempel</li></ul>"
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/ebike.jpg",
         "http": "https://ebike.dennisfrankenbach.me/",
         "date": "06-28-2022",

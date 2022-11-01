@@ -1,4 +1,20 @@
 [{
+        "thumbnail": "assets/posts/gis.png",
+        "http": "https://www.coursera.org/account/accomplishments/specialization/QDMZJAXN8Z7N",
+        "date": "11-01-2022",
+        "internationalizations": [{
+                "language": "en",
+                "title": "GIS, Mapping, and Spatial Analysis",
+                "description": "<ul><li>Introduction to GIS Mapping</li><li>GIS Data Acquisition and Map Design</li><li>Spatial Analysis and Satellite Imagery in a GIS</li><li>GIS, Mapping, and Spatial Analysis Capstone</li></ul>"
+            },
+            {
+                "language": "de",
+                "title": "GIS, Mapping, and Spatial Analysis",
+                "description": "<ul><li>Einführung in die GIS-Kartierung</li><li>GIS Datenerfassung und Kartengestaltung</li><li>Räumliche Analyse und Satellitenbilder in einem GIS</li><li>GIS, Kartierung und räumliche Analyse Capstone</li></ul>"
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/gpx_creator.png",
         "http": "https://github.com/fraden/python-komoot-gpx-creator",
         "date": "07-15-2022",

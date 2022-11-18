@@ -4,12 +4,12 @@
         "date": "11-01-2022",
         "internationalizations": [{
                 "language": "en",
-                "title": "GIS, Mapping, and Spatial Analysis",
+                "title": "GIS, Mapping, and Spatial Analysis.",
                 "description": "<ul><li>Introduction to GIS Mapping</li><li>GIS Data Acquisition and Map Design</li><li>Spatial Analysis and Satellite Imagery in a GIS</li><li>GIS, Mapping, and Spatial Analysis Capstone</li></ul>"
             },
             {
                 "language": "de",
-                "title": "GIS, Mapping, and Spatial Analysis",
+                "title": "GIS, Mapping, and Spatial Analysis.",
                 "description": "<ul><li>Einführung in die GIS-Kartierung</li><li>GIS Datenerfassung und Kartengestaltung</li><li>Räumliche Analyse und Satellitenbilder in einem GIS</li><li>GIS, Kartierung und räumliche Analyse Capstone</li></ul>"
             }
         ]
@@ -20,12 +20,12 @@
         "date": "07-15-2022",
         "internationalizations": [{
                 "language": "en",
-                "title": "Komoot-GPX-Creator",
+                "title": "Komoot-GPX-Creator.",
                 "description": "<ul><li>Create gpx data by using Komoot APIs</li><li>gpx data can be simplified and timestamps are anonymized</li></ul>"
             },
             {
                 "language": "de",
-                "title": "Komoot-GPX-Creator",
+                "title": "Komoot-GPX-Creator.",
                 "description": "<ul><li>Erstellung von GPX-Daten unter Verwendung der Komoot APIs</li><li>Vereinfachung von Positionsdaten und Anonymisierung der Zeitstempel</li></ul>"
             }
         ]
@@ -181,7 +181,7 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Six Sigma Green Belt Training.",
-                "description": " The vision of Six Sigma; SIPOC; Voice of the Customer, CTQ; <br>Process and Variation; Process Mapping; Process Measurements, DPU, RTY; <br>C&E Matrix; FMEA; Introduction to Minitab; Graphical Methods; <br>Fundamentals of Statistics; Measurement System Analysis, GR&R; <br>Process Capability, cp, cpk and Sigma; <br>Correlation Analysis; Multi-Vari Study; <br>Central Limit Theorem; Introduction to Hypothesis Testing; Confidence Ranges; <br>T-Test; F-Test ; Chi^2-Test; Sample Size Calculation; Shainin A versus B; <br>Analysis of Variance (ANOVA); Regression Analysis; <br>Solution Finding; Creativity Techniques; Solution Selection; Solution Implementation; Solution Risks; Statistical Process Control; <br>Treat. non-normal data; Overview of further tools; <br>Practical implementation"
+                "description": "The vision of Six Sigma; SIPOC; Voice of the Customer, CTQ; <br>Process and Variation; Process Mapping; Process Measurements, DPU, RTY; <br>C&E Matrix; FMEA; Introduction to Minitab; Graphical Methods; <br>Fundamentals of Statistics; Measurement System Analysis, GR&R; <br>Process Capability, cp, cpk and Sigma; <br>Correlation Analysis; Multi-Vari Study; <br>Central Limit Theorem; Introduction to Hypothesis Testing; Confidence Ranges; <br>T-Test; F-Test ; Chi^2-Test; Sample Size Calculation; Shainin A versus B; <br>Analysis of Variance (ANOVA); Regression Analysis; <br>Solution Finding; Creativity Techniques; Solution Selection; Solution Implementation; Solution Risks; Statistical Process Control; <br>Treat. non-normal data; Overview of further tools; <br>Practical implementation"
             },
             {
                 "language": "de",

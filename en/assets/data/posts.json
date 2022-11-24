@@ -133,12 +133,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "C++ Developer.",
-                "description": "<ul><li>C++ Foundations</li> <li>Object-Oriented Programming</li> <li>Memory Management</li> <li>Concurrency</ul> <a href=assets/data/C+++Nanodegree+Program+Syllabus.pdf>Syllabus</a>"
+                "description": "<ul><li>C++ Foundations</li> <li>Object-Oriented Programming</li> <li>Memory Management</li> <li>Concurrency</ul> <a href=assets/data/C+++Nanodegree+Program+Syllabus.pdf target='_blank'>Syllabus</a>"
             },
             {
                 "language": "de",
                 "title": "C++ Entwickler.",
-                "description": "<ul><li>C++-Grundlagen</li> <li>objektorientierte Programmierung</li> <li>Speicherverwaltung</li> <li>Nebenläufigkeit</ul> <a href=assets/data/C+++Nanodegree+Program+Syllabus.pdf>Lehrplan</a>"
+                "description": "<ul><li>C++-Grundlagen</li> <li>objektorientierte Programmierung</li> <li>Speicherverwaltung</li> <li>Nebenläufigkeit</ul> <a href=assets/data/C+++Nanodegree+Program+Syllabus.pdf target='_blank'>Lehrplan</a>"
             }
         ]
     },
@@ -149,12 +149,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Frontend Developer.",
-                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript and the DOM</li> <li>Web APIs and Asynchronous Applications</li><li>Build Tools, Webpack und Service Worker</li></ul><a href=assets/data/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf>Syllabus</a> "
+                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript and the DOM</li> <li>Web APIs and Asynchronous Applications</li><li>Build Tools, Webpack und Service Worker</li></ul><a href=assets/data/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf target='_blank'>Syllabus</a> "
             },
             {
                 "language": "de",
                 "title": "Frontend Entwickler.",
-                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript und DOM</li> <li>Web APIs und Asynchrone Anwendungen</li><li>Build Tools, Webpack und Service Worker</li></ul> <a href=assets/data/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf>Lehrplan</a>"
+                "description": "<ul><li>CSS & Website Layout</li> <li>JavaScript und DOM</li> <li>Web APIs und Asynchrone Anwendungen</li><li>Build Tools, Webpack und Service Worker</li></ul> <a href=assets/data/Front+End+Web+Dev+-+nd0011+-+syllabus.pdf target='_blank'>Lehrplan</a>"
             }
         ]
     },
@@ -165,12 +165,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Introduction to Machine Learning with TensorFlow.",
-                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul> <a href=assets/data/Intro+to+Machine+Learning+with+TensorFlow+Nanodegree+Program+Syllabus.pdf>Syllabus</a>"
+                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul> <a href=assets/data/Intro+to+Machine+Learning+with+TensorFlow+Nanodegree+Program+Syllabus.pdf target='_blank'>Syllabus</a>"
             },
             {
                 "language": "de",
                 "title": "Einführung in maschinelles Lernen mit TensorFlow.",
-                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul> <a href=assets/data/Intro+to+Machine+Learning+with+TensorFlow+Nanodegree+Program+Syllabus.pdf>Lehrplan</a>"
+                "description": "<ul> <li>Supervised Learning</li> <li>Neural Networks</li> <li>Unsupervised Learning</li> </ul> <a href=assets/data/Intro+to+Machine+Learning+with+TensorFlow+Nanodegree+Program+Syllabus.pdf target='_blank'>Lehrplan</a>"
             }
         ]
     },

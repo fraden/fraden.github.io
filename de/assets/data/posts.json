@@ -1,4 +1,36 @@
 [{
+        "thumbnail": "assets/posts/cloud_developer.png",
+        "http": "https://graduation.udacity.com/confirm/e/cea96b2c-196e-11ee-a788-dbe723883b00",
+        "date": "09-08-2023",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Cloud Developer using Microsoft Azure",
+                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a>"
+            },
+            {
+                "language": "de",
+                "title": "Cloud Developer using Microsoft Azure",
+                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a>"
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/golang.png",
+        "http": "https://graduation.udacity.com/confirm/e/e7db0bbc-100b-11ee-af93-4fe1bac78972",
+        "date": "06-30-2023",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Go Language (Golang)",
+                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a>"
+            },
+            {
+                "language": "de",
+                "title": "Go Language (Golang)",
+                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a>"
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/gis.png",
         "http": "https://www.coursera.org/account/accomplishments/specialization/QDMZJAXN8Z7N",
         "date": "11-01-2022",

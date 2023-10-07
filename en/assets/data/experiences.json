@@ -274,5 +274,49 @@
             }
         ],
         "backgroundUrl": "assets/template/experience/voith.jpeg"
+    },
+    {
+        "id": 8,
+        "position": 8,
+        "startAt": "05-01-2023",
+        "endAt": "",
+        "companyName": "Mercedes-Benz AG",
+        "website": "https://www.mercedes-benz.de/",
+        "logo": "assets/template/experience/logo/mercedes-logo.svg",
+        "internationalizations": [{
+                "language": "de",
+                "city": "Sindelfingen",
+                "country": "Deutschland",
+                "role": "Product Owner",
+                "description": "<ul> <li>Online Routing</li> <li>Alternativrouten</li> <li>Planung von Ladestationen in die Navigation</li> </ul>"
+            },
+            {
+                "language": "en",
+                "city": "Sindelfingen",
+                "country": "Germany",
+                "role": "Product Owner",
+                "description": "<ul> <li>Online Routing</li> <li>Live Alternatives</li> <li>Planning of charging stations</li> </ul>"
+            }
+        ],
+        "technologies": [
+            "GoLang", "Python", "Azure", "Azure Devops"
+        ],
+        "medias": [{
+                "icon": "linkedin",
+                "title": "LinkedIn Mercedes-Benz AG",
+                "http": "https://www.linkedin.com/company/mercedes-benz_ag/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Mercedes-Benz AG",
+                "http": "https://www.facebook.com/MercedesBenz/"
+            },
+            {
+                "icon": "internet-explorer",
+                "title": "Mercedes-Benz AG",
+                "http": "https://www.mercedes-benz.de/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/mercedes.jpeg"
     }
 ]

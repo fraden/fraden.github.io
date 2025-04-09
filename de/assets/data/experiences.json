@@ -288,14 +288,14 @@
                 "city": "Sindelfingen",
                 "country": "Deutschland",
                 "role": "Product Owner",
-                "description": "<ul> <li>Online Routing</li> <li>Alternativrouten</li> <li>Planung von Ladestationen in die Navigation</li> </ul>"
+                "description": "<ul> <li>Online Routing</li> <li>Alternativrouten</li> </ul>"
             },
             {
                 "language": "en",
                 "city": "Sindelfingen",
                 "country": "Germany",
                 "role": "Product Owner",
-                "description": "<ul> <li>Online Routing</li> <li>Live Alternatives</li> <li>Planning of charging stations</li> </ul>"
+                "description": "<ul> <li>Online Routing</li> <li>Live Alternatives</li> </ul>"
             }
         ],
         "technologies": [

@@ -1,16 +1,48 @@
 [{
+        "thumbnail": "assets/posts/certified_safe_6_po.png",
+        "http": "https://scaledagile.com/training/safe-product-owner-product-manager/",
+        "date": "04-22-2024",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Certified SAFe 6 Product Owner",
+                "description": "<ul> <li>Defining and prioritizing product backlogs</li> <li>Applying Lean-Agile principles in product management</li> <li>Collaborating with teams and stakeholders</li> <li>Maximizing value through product development</li> </ul>"
+            },
+            {
+                "language": "de",
+                "title": "Certified SAFe 6 Product Owner",
+                "description": "<ul> <li>Definition und Priorisierung von Produktbacklogs</li> <li>Anwendung von Lean-Agile-Prinzipien im Produktmanagement</li> <li>Zusammenarbeit mit Teams und Stakeholdern</li> <li>Maximierung des Werts durch Produktentwicklung</li> </ul>"
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/certified_safe_6_agilist.png",
+        "http": "https://scaledagile.com/training/leading-safe/",
+        "date": "01-30-2024",
+        "internationalizations": [{
+                "language": "en",
+                "title": "Certified SAFe 6 Agilist",
+                "description": "<ul> <li>Scaling agile principles and practices</li> <li>Lean-Agile methods for process optimization</li> <li>Promoting team collaboration</li> <li>Leading agile transformations</li> </ul>"
+            },
+            {
+                "language": "de",
+                "title": "Certified SAFe 6 Agilist",
+                "description": "<ul> <li>Skalierung agiler Prinzipien und Praktiken</li> <li>Lean-Agile-Methoden zur Prozessoptimierung</li> <li>Förderung von Teamzusammenarbeit</li> <li>Leitung von agilen Transformationen</li> </ul>"
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/cloud_developer.png",
         "http": "https://graduation.udacity.com/confirm/e/cea96b2c-196e-11ee-a788-dbe723883b00",
         "date": "09-08-2023",
         "internationalizations": [{
                 "language": "en",
                 "title": "Cloud Developer using Microsoft Azure",
-                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a>"
+                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a></ul>"
             },
             {
                 "language": "de",
                 "title": "Cloud Developer using Microsoft Azure",
-                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a>"
+                "description": "<ul><li>Azure Applications</li> <li>Azure Microservices</li> <li>Azure Migration</li> <li>Azure Performance</li> <a href=assets/data/Udacity+Enterprise+Syllabus+Cloud+Developer+using+Microsoft+Azure+nd081.pdf target='_blank'>Syllabus</a></ul>"
             }
         ]
     },
@@ -21,12 +53,12 @@
         "internationalizations": [{
                 "language": "en",
                 "title": "Go Language (Golang)",
-                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a>"
+                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a></ul>"
             },
             {
                 "language": "de",
                 "title": "Go Language (Golang)",
-                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a>"
+                "description": "<ul><li>Goroutines</li> <li>Building for the Web</li> <li>CRM Backend</li><a href=assets/data/Golang+course+syllabus+cd11970.pdf target='_blank'>Syllabus</a></ul>"
             }
         ]
     },

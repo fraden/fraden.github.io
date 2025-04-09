@@ -1,6 +1,6 @@
 [{
         "thumbnail": "assets/posts/certified_safe_6_po.png",
-        "http": "https://scaledagile.com/training/safe-product-owner-product-manager/",
+        "http": "assets/posts/certified_safe_6_po.png",
         "date": "04-22-2024",
         "internationalizations": [{
                 "language": "en",
@@ -16,7 +16,7 @@
     },
     {
         "thumbnail": "assets/posts/certified_safe_6_agilist.png",
-        "http": "https://scaledagile.com/training/leading-safe/",
+        "http": "assets/posts/certified_safe_6_agilist.png",
         "date": "01-30-2024",
         "internationalizations": [{
                 "language": "en",
